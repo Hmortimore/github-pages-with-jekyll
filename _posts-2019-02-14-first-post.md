@@ -1,7 +1,7 @@
---
+---
 layout: post
-title: researcher recommendations
---
+title: 'researcher recommendations'
+---
 
 # Researcher Recommendations 
 
